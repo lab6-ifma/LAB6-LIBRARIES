@@ -1,0 +1,2 @@
+# LAB6-LIBRARIES
+Repositório APENAS PARA BIBLIOTECAS (.lib) do KiCad
